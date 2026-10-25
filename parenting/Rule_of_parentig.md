@@ -1,4 +1,5 @@
 ##  Positive Parenting by Abu Toha Muhammad Adnan
+```
 ১. জীবনের লক্ষ্য শেখানো (set gole) set Omar ibne khattab.
 ২.সন্তান আল্লাহর দেয়া আমানত Mone kora 
 ৩.সুশিক্ষা প্রদান ( je Instritude  proper best education dai sai instretude e admission korano )
@@ -10,6 +11,7 @@
 ৯.সন্তানকে কোন বিষয়ে চাপ প্রদান না করা 
 ১০. সন্তানের জন্য আল্লাহর কাছে দোয়া করা( tahajjot namaz pore allah er kase basi basi  dua kora. regular sontanke ki bante chao )
 
+```
 # Positive Parenting (পজিটিভ প্যারেন্টিং)
 
 **আলোচনার বিষয়:** আবু তোহা মুহাম্মদ আদনানের আলোচনার ভিত্তিতে সাজানো নোট।
